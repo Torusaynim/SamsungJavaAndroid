@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">AuthAppPractice</string>
-    <string name="editLogin"></string>
-    <string name="editPassword"></string>
-    <string name="btn_auth">Enter</string>
-</resources>

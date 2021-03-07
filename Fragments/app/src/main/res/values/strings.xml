@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">translator</string>
+    <string name="btn_1">Кнопка 1</string>
+    <string name="btn_2">Кнопка 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello, this is blank fragment 1</string>
+    <string name="hello_blank_fragment2">Hello, this is blank fragment 2</string>
+</resources>
